@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/rss.xsl" media="screen"?>
+<rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule">
+   <channel>
+      <language>en</language>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/2.0/uk/</creativeCommons:license>
+            <pubDate>Sun, 14 Oct 2012 05:28:44 +0000</pubDate>
+      <lastBuildDate>Sun, 14 Oct 2012 05:28:44 +0000</lastBuildDate>
+            <ttl>5</ttl>
+      <docs>http://www.audioscrobbler.net/data/webservices</docs>      <title>Niksterg11's Recently Played Tracks</title>
+      <link>http://www.last.fm/user/Niksterg11</link>
+      <description>Last 10 tracks submitted to Last.fm</description>
+      <item>
+         <title>Kanye West – Clique</title>
+         <link>http://www.last.fm/music/Kanye+West/_/Clique</link>
+         <pubDate>Sun, 14 Oct 2012 05:36:59 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350193019</guid>
+                 <description>http://www.last.fm/music/Kanye+West</description>
+      </item>
+      <item>
+         <title>Kanye West – Mercy</title>
+         <link>http://www.last.fm/music/Kanye+West/_/Mercy</link>
+         <pubDate>Sun, 14 Oct 2012 05:28:44 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350192524</guid>
+                 <description>http://www.last.fm/music/Kanye+West</description>
+      </item>
+      <item>
+         <title>Gotye – Somebody That I Used to Know</title>
+         <link>http://www.last.fm/music/Gotye/_/Somebody+That+I+Used+to+Know</link>
+         <pubDate>Sun, 14 Oct 2012 05:24:38 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350192278</guid>
+                 <description>http://www.last.fm/music/Gotye</description>
+      </item>
+      <item>
+         <title>Nicki Minaj – Pound the Alarm</title>
+         <link>http://www.last.fm/music/Nicki+Minaj/_/Pound+the+Alarm</link>
+         <pubDate>Sun, 14 Oct 2012 05:21:12 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350192072</guid>
+                 <description>http://www.last.fm/music/Nicki+Minaj</description>
+      </item>
+      <item>
+         <title>Katy Perry – Wide Awake</title>
+         <link>http://www.last.fm/music/Katy+Perry/_/Wide+Awake</link>
+         <pubDate>Sun, 14 Oct 2012 05:17:31 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350191851</guid>
+                 <description>http://www.last.fm/music/Katy+Perry</description>
+      </item>
+      <item>
+         <title>Rihanna – Diamonds</title>
+         <link>http://www.last.fm/music/Rihanna/_/Diamonds</link>
+         <pubDate>Sun, 14 Oct 2012 05:13:45 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350191625</guid>
+                 <description>http://www.last.fm/music/Rihanna</description>
+      </item>
+      <item>
+         <title>Carly Rae Jepsen – Call Me Maybe</title>
+         <link>http://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe</link>
+         <pubDate>Sun, 14 Oct 2012 05:10:32 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350191432</guid>
+                 <description>http://www.last.fm/music/Carly+Rae+Jepsen</description>
+      </item>
+      <item>
+         <title>Ke$ha – Die Young</title>
+         <link>http://www.last.fm/music/Ke$ha/_/Die+Young</link>
+         <pubDate>Sun, 14 Oct 2012 05:06:38 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350191198</guid>
+                 <description>http://www.last.fm/music/Ke$ha</description>
+      </item>
+      <item>
+         <title>Ellie Goulding – Lights</title>
+         <link>http://www.last.fm/music/Ellie+Goulding/_/Lights</link>
+         <pubDate>Sun, 14 Oct 2012 05:03:06 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350190986</guid>
+                 <description>http://www.last.fm/music/Ellie+Goulding</description>
+      </item>
+      <item>
+         <title>fun. – Some Nights</title>
+         <link>http://www.last.fm/music/fun./_/Some+Nights</link>
+         <pubDate>Sun, 14 Oct 2012 04:58:12 +0000</pubDate>
+         <guid>http://www.last.fm/user/Niksterg11#1350190692</guid>
+                 <description>http://www.last.fm/music/fun.</description>
+      </item>
+   </channel>
+</rss>
