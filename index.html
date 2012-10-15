@@ -4,28 +4,34 @@
 	<title>nowplaying</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
+	<script type="text/template" id="track_template">
+		<span class="title"><%= title %></span>
+	</script>
+
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
+
+	<script type="text/javascript" src="js/libs/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="js/libs/plugins/jquery.jfeed.pack.js"></script>
+	<script type="text/javascript" src="js/libs/plugins/jquery.xml2json.js"></script>
+
 
 	<script type="text/javascript" src="js/libs/underscore.js"></script>
 	<script type="text/javascript" src="js/libs/backbone.js"></script>
 
-	<script type="text/javascript" src="js/libs/jquery-1.8.2.min.js"></script>
-	<script type="text/javascript" src="js/libs/plugins/jquery.jfeed.pack.js"></script>
 
-	<script src="js/libs/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/libs/bootstrap.min.js"></script>
 
-	<script type="text/javascript">
-	jQuery.getFeed({
-		url: 'recenttracks.rss',
-		success: function(feed) {
-			console.log('hi');
-			console.log(feed);
-		}
-	});
-	</script>
+	<script type="text/javascript" src="js/models/track.js"></script>
+	<script type="text/javascript" src="js/collections/tracklist.js"></script>
+	<script type="text/javascript" src="js/views/tracklistview.js"></script>
+	<script type="text/javascript" src="js/views/trackview.js"></script>
+	<script type="text/javascript" src="js/app.js"></script>
+	
 </head>
 <body>
-	<h1>Hello, world!</h1>
+
+<div id="nowplaying"></div>
+
 </body>
 </html>
