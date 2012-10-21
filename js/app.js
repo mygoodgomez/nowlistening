@@ -1,12 +1,12 @@
 $(function() {
-	$.get('recenttracks.rss', function(xml) {
-		var tracksJSON = $.xml2json(xml);
+	$.getJSON('http://127.0.0.1:1337/?callback=?');
+});
 
-		this.trackList = new TrackList(tracksJSON.channel.item);
-		this.trackListView = new TrackListView({model:this.trackList});
-		$('#nowplaying').html(this.trackListView.render().el);
-	})
-})
+function handleData(data) {
+	this.trackList = new TrackList(data.rss.channel[0].item);
+	this.trackListView = new TrackListView({model:this.trackList});
+	$('#nowplaying').html(this.trackListView.render().el);
+}
 
 
 
